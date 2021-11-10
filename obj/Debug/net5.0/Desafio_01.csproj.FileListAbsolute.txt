@@ -1,0 +1,16 @@
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\bin\Debug\net5.0\Desafio_01.exe
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\bin\Debug\net5.0\Desafio_01.deps.json
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\bin\Debug\net5.0\Desafio_01.runtimeconfig.json
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\bin\Debug\net5.0\Desafio_01.runtimeconfig.dev.json
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\bin\Debug\net5.0\Desafio_01.dll
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\bin\Debug\net5.0\ref\Desafio_01.dll
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\bin\Debug\net5.0\Desafio_01.pdb
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\obj\Debug\net5.0\Desafio_01.csproj.AssemblyReference.cache
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\obj\Debug\net5.0\Desafio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\obj\Debug\net5.0\Desafio_01.AssemblyInfoInputs.cache
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\obj\Debug\net5.0\Desafio_01.AssemblyInfo.cs
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\obj\Debug\net5.0\Desafio_01.csproj.CoreCompileInputs.cache
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\obj\Debug\net5.0\Desafio_01.dll
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\obj\Debug\net5.0\ref\Desafio_01.dll
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\obj\Debug\net5.0\Desafio_01.pdb
+C:\Users\Bia\Desktop\Programas Ubuntu\Desafio_01\obj\Debug\net5.0\Desafio_01.genruntimeconfig.cache
